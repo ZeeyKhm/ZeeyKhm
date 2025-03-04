@@ -5,6 +5,6 @@ I'm a ICT Specialist who is passionate about making contributing to open-source 
 
 
 ## Find me around the web 🌎: <a href="https://zeeykhm.github.io/"><img align="left" width="150" height="150" src="https://github.com/ZeeyKhm/ZeeyKhm/blob/main/octozeey/zeey-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="#">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Learning in public on <a href="#">Twitch</a> or <a href="https://feline-oyster-22f.notion.site/Zeey-Khm-Workfolio-46811d52f44f4199ab156b7bc7182a7e">zeeykhm.workfolio</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="#"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/AziziKeffli/">LinkedIn</a> 💼
